@@ -1,0 +1,36 @@
+{
+  "name": "canvas-utilities",
+  "version": "1.0.0",
+  "homepage": "https://github.com/FCOO/canvas-utilities",
+  "authors": [
+    "Niels Holt"
+  ],
+  "description": "",
+  "main": [
+    "dist/canvas-utilities.js",
+    "dist/canvas-utilities.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FCOO/canvas-utilities.git"
+  },
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "devDependencies": {
+    "bourbon": "latest",
+    "modernizr-mixin": "latest",
+    "mathsass": "latest"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "es6"
+  ]
+}

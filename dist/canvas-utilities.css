@@ -1,0 +1,12 @@
+/***********************************************
+	canvas-utilities.scss,
+
+	(c) 2022, FCOO
+
+	https://github.com/FCOO/canvas-utilities
+	https://github.com/FCOO
+
+
+************************************************/
+path:focus {
+  outline: none; }

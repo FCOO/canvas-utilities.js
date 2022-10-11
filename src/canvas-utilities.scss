@@ -1,0 +1,24 @@
+/***********************************************
+	canvas-utilities.scss,
+
+	(c) 2022, FCOO
+
+	https://github.com/FCOO/canvas-utilities
+	https://github.com/FCOO
+
+
+************************************************/
+//BOURBON - http://bourbon.io/
+@import "../bower_components/bourbon/core/bourbon";
+
+//MODERNIZR-MIXIN - https://github.com/danielguillan/modernizr-mixin
+@import "../bower_components/modernizr-mixin/stylesheets/modernizr";
+
+//MATHSASS - https://github.com/terkel/mathsass
+@import "../bower_components/mathsass/dist/math";
+
+
+//Remove outline for path in focus
+path:focus {
+    outline: none;
+}
